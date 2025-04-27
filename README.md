@@ -21,6 +21,13 @@ This paper presents ColorBlindnessEval, a novel benchmark designed to evaluate t
 
 <br>
 
+## Evaluation
+<img src='assets/frame-b-7.png'>
+
 ## 📢 News
 - Uploaded dataset (Apr 27 2025)
 - Accepted by ICLR Workshop (Open Science for Foundation Models (SCI-FM))
+
+
+## 📬 Contact
+If you're interested in research collaboration or would like to have a conversation, feel free to reach out at zijian.ling@applyu.ai
