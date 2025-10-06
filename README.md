@@ -4,7 +4,7 @@
 
 <h4 align="center">
 
-[Paper](https://github.com/ApplyU-ai/ColorBlindnessEval/) |
+[Paper](https://www.arxiv.org/abs/2509.19070) |
 [Dataset](https://huggingface.co/datasets/Apply-U/ColorBlindnessEval) 
 </h4>
 
@@ -25,6 +25,7 @@ This paper presents ColorBlindnessEval, a novel benchmark designed to evaluate t
 <img src='assets/frame-b-7.png'>
 
 ## 📢 News
+- Paper on Arxiv [Link](https://www.arxiv.org/abs/2509.19070)
 - Uploaded dataset (Apr 27 2025)
 - Accepted by ICLR Workshop (Open Science for Foundation Models (SCI-FM))
 
